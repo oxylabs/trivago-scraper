@@ -1,6 +1,6 @@
 # Trivago Scraper API
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=trivago-scraper-github&transaction_id=102f49063ab94276ae8f116d224b67)
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
 Oxylabs’ [Trivago Scraper](https://oxylabs.io/products/scraper-api/web/trivago?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Trivago website effortlessly. This brief guide explains how an Trivago Scraper works and provides code examples to understand better how you can use it hassle-free.
