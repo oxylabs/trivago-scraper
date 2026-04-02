@@ -53,4 +53,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Trivago Scraper, you can seamlessly extract public data from any Trivago web page. Gather essential hotel details like location, ratings, amenities, or guest reviews, to understand the hospitality industry and stay ahead in your business. If you need any assistance, our support team is just a live chat or an email away at hello@oxylabs.io.
+With our Trivago Scraper, you can seamlessly extract public data from any Trivago web page. Gather essential hotel details like location, ratings, amenities, or guest reviews, to understand the hospitality industry and stay ahead in your business. If you need any assistance, our support team is just a live chat or an email away at support@oxylabs.io.
